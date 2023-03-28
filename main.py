@@ -45,3 +45,4 @@ if quest1 == "left":
 
 else:
   print("You're dead!")
+
